@@ -4,12 +4,10 @@ excerpt: "github page를 이용한 블로그 만들기 (no local pc)"
 toc: true
 toc_sticky: true
 categories:
-  - Tools
+  - Study
 tags:
-  - Tools
   - Github
   - Jekyll
-  - Blog
 ---
 
 참고 : [GitHub Pages 블로그 따라하기](https://devinlife.com/howto/)
