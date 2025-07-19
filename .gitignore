@@ -27,3 +27,12 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+# obsidian env files
+.obsidian/
+.trash/
+Config/obsidian/workspace
+
+# drawio auto-saving files
+.$*.bkp
+.$*.dtmp
