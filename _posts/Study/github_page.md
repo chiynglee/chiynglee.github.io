@@ -9,26 +9,26 @@ tags:
   - Github
   - Jekyll
 ---
-
 참고 : [GitHub Pages 블로그 따라하기](https://devinlife.com/howto/)
 
-## Github 준비
+# Github 준비
 
-### Github 가입
+## Github 가입
 
 [Github](https://github.com) 접속 후, 회원 가입
 
-### 테마를 github repository로 복사
+## 테마를 github repository로 복사
 
 1. Github 로그인
 2. [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)의 github repository에 접속
 3. 오른쪽 상단 "Fork" 클릭
 4. 복사본을 저장할 github 계정을 선택
-5. 
 
-## 포스트 작성
 
-### TOC (Table of Contents) 추가
+
+# 포스트 작성
+
+## TOC (Table of Contents) 추가
 
 해당 포스트의 목록(차례)을 표기
 
@@ -39,14 +39,12 @@ minimal-mistakes 테마에서는 오른쪽 사이드 바 형태로 출력
 toc: true
 toc_sticky: true
 ```
-> TOC : toc 표기 결정
->
-> toc_sticky : toc 사이드 바를 고정. 작은 화면에서 사이드 바가 화면 밖으로 넘어가 좌우 스크롤이 발생하는 방지
+> - TOC : toc 표기 결정
+> - toc_sticky : toc 사이드 바를 고정. 작은 화면에서 사이드 바가 화면 밖으로 넘어가 좌우 스크롤이 발생하는 방지
 
+## 스타일 설정
 
-### 스타일 설정
-
-#### 포스트 제목 밑에 날짜 표기
+### 포스트 제목 밑에 날짜 표기
 
 참고 : [jekyll 블로그 포스팅 날짜로 바꾸기](https://heoseongh.github.io/gitblog/jekyll-setting-postDate/)
 
